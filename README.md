@@ -30,6 +30,7 @@ int main()
 }
 ```
 
+JavaScript
 ```js
 console.log("Hello world");
 ```
