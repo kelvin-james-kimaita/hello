@@ -17,3 +17,19 @@ public class HelloWorld
 ```python
 print('Hello World')
 ```
+
+* C
+```c
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello World\n");
+
+    return (0);
+}
+```
+
+```js
+console.log("Hello world");
+```
